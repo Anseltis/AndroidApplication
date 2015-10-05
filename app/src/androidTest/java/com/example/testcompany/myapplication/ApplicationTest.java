@@ -18,7 +18,7 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
 
     @Test
     public void testOner(){
-        Assert.assertEquals(2 + 3, 5);
+        Assert.assertEquals(2 + 7, 9);
     }
 
     @Test
